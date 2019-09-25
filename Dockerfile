@@ -1,2 +1,2 @@
 FROM tomcat
-echo "this is jenkins test by wangyahui"
+RUN echo "this is the first jenkins test"
